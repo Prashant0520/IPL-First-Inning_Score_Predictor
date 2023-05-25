@@ -5,4 +5,6 @@
  ![GIF](readme_resources/Media_230525_080503.gif)
 ## Deployment in web app using streamlit
 
+  ![GIF](readme_resources/Gif.gif)
+
 
